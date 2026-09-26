@@ -7,3 +7,11 @@ El sistema permite:
 * Calcular cotizaciones de alquiler según la categoría de la máquina y la cantidad de días solicitados
 * Registrar el alquiler y la devolución de las máquinas, controlando su estado de disponibilidad
 * Generar un reporte que muestra la cantidad de máquinas registradas, su estado (disponible o alquilada) y el total de ingresos acumulados
+
+# Instrucciones de ejecución
+Para compilar y ejecutar el programa desde la terminal, sigue estos pasos:  
+1. Abre tu terminal y navega hasta la carpeta donde se encuentran los archivos.
+2. Compila todos los archivos Java con el siguiente comando:
+javac *.java
+3. Ejecuta la clase principal con el siguiente comando:
+java DulceEstacion
